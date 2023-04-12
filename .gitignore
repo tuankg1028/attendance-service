@@ -1,7 +1,7 @@
 be/node_modules
 be/package-lock.json
 be/yarn.lock
-be/build
+be/dist
 be/.env
 
 fe/node_modules
